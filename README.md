@@ -14,6 +14,7 @@ Os exercícios foram desenvolvidos para fortalecer conceitos fundamentais da lin
 
 - JavaScript
 - VS Code
+- Node.js
 - Git
 
 💡 Aprendizados
