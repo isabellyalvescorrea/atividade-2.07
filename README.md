@@ -7,7 +7,7 @@ Os exercícios foram desenvolvidos para fortalecer conceitos fundamentais da lin
 🚀 Objetivos do Projeto
 
 - Praticar a lógica de programação por meio de exercícios práticos.
-- Utilizar estruturas básicas do JavaScript como variáveis, condicionais, e laços de repetição.
+- Utilizar estruturas básicas do JavaScript como variáveis, condicionais, laços de repetição e funçoes.
 - Desenvolver o raciocínio lógico aplicado à programação.
 
 🛠 Tecnologias Utilizadas
