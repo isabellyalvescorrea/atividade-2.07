@@ -1,3 +1,5 @@
+//Faça um algoritmo que receba um número e diga se este número está no intervalo entre 100 e 200.
+
 let prompt = require ('prompt-sync')();
 
 let numero1 = parseFloat(prompt('Digite um numero: '));

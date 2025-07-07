@@ -1,3 +1,5 @@
+//Faça um algoritmo que receba dois números e exiba o resultado da sua soma.
+
 let prompt = require('prompt-sync')();
 
 let numero1 = parseFloat(prompt('digite o primeito nr: '));

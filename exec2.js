@@ -1,3 +1,6 @@
+//Faça um algoritmo que receba dois números e ao final mostre a soma, subtração, multiplicação e a divisão dos
+//números lidos.
+
 let prompt = require('prompt-sync')();
 
 let numero1 = parseFloat(prompt('digite o primeito nr: '));
